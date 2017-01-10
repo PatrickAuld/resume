@@ -1,0 +1,181 @@
+{
+  "basics": {
+    "name": "Patrick J. Auld",
+    "label": "Programmer",
+    "picture": "https://en.gravatar.com/userimage/29411389/bda59f9502eab0fa2d96bbea0cf15888?size=600",
+    "email": "Patrick@PatrickAuld.com",
+    "website": "http://PatrickAuld.com",
+    "summary": "I strive to solve interesting and challenging problems that matter.",
+    "location": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "PatrickAuld",
+        "url": ""
+      },
+      {
+        "network": "LinkedIn",
+        "username": "PatrickAuld",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Birst",
+      "position": "Lead Software Engineer",
+      "website": "https://birst.com",
+      "startDate": "2016-01-01",
+      "summary": "Worked with multiple teams advising system architecture and design as well as testing practices and selection of quality metrics. Evaluated and selected third party systems and libraries for internal adoption. Worked with vendors and teams when purchasing services to ensure we actually needed them. Appointed to a specialized team to fix performance issues. Started regular internal talks to build inter-department communication and learning. Plus lots of actual coding and devops work.",
+      "highlights": [
+
+      ]
+    },
+    {
+      "company": "Birst",
+      "position": "Senior Software Engineer",
+      "website": "https://birst.com",
+      "startDate": "2013-07-01",
+      "endDate": "2016-01-01",
+      "summary": "Defined and built blueprint for next generation service architecture. Lead the move of a monolith to SOA. Lead and implemented standardization of build, branching, version control, configuration, logging and monitoring across the company. Designed and built DSL based testing harness for integration and systems tests.",
+      "highlights": [
+
+      ]
+    },
+    {
+      "company": "Domo",
+      "position": "Software Engineer",
+      "website": "https://domo.com",
+      "startDate": "2011-07-01",
+      "endDate": "2013-04-01",
+      "summary": "Working with data storage, organization, normalization and transformation for internet scale visualization and analysis as well as product integration with social platforms and data services. Designed and build reusable steaming data pipeline capable of on loading data and preforming ETL transforms though plugins developed both in house in by external teams. Built documentation and tooling around plugin development, such as Gradle plugins  Designed and implemented REST APIs for internal and external services.",
+      "highlights": [
+
+      ]
+    },
+    {
+      "company": "Elastra",
+      "position": "Software Engineer",
+      "startDate": "2007-11-01",
+      "endDate": "2011-04-01",
+      "summary": "Build and maintained Cloud normalization API and SDK to allow internal services to be agnostic of the underlaying platform.  Also worked on intelligent planning system to determining the most efficient order of operations for building cloud infrastructure on the fly for a customer.  Helped develop UI and security implementations.",
+      "highlights": [
+
+      ]
+    },
+    {
+      "company": "NASA Ames",
+      "position": "Lunar Image Processing Developer",
+      "startDate": "2007-06-01",
+      "endDate": "2011-10-01",
+      "summary": "Implemented or improved on various image processing algorithms used by an internal library. Created Street View style panoramas, and stitched images into zoomable tile images. Worked with Google to create Google Moon, moon.google.com",
+      "highlights": [
+
+      ]
+    },
+    {
+      "company": "University of California, Santa Cruz",
+      "position": "Research Assistant",
+      "startDate": "2007-06-01",
+      "endDate": "2011-10-01",
+      "summary": "Worked on a research project with two graduate students for tracking human movement even in the presence of bulky clothing, using standard camera such as those found in security systems.",
+      "highlights": [
+
+      ]
+    }
+  ],
+  "volunteer": [
+
+  ],
+  "education": [
+    {
+      "institution": "University of California, Santa Cruz",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2003-09-01",
+      "endDate": "2007-05-30",
+      "courses": [
+
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Eagle Scout",
+      "awarder": "Boy Scounts of America"
+    },
+    {
+      "title": "Employee of the Month",
+      "awarder": "Ask Mr. Milo, Inc"
+    }
+  ],
+  "publications": [
+
+  ],
+  "skills": [
+    {
+      "name": "Java Development",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "JDK"
+      ]
+    },
+    {
+      "name": "System Architecture",
+      "level": "Darn Good",
+      "keywords": [
+        "System",
+        "Architecture",
+        "Design"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Minimal"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Scalability",
+      "keywords": [
+        "scale",
+        "human scale",
+        "platform scale",
+        "systems"
+      ]
+    },
+    {
+      "name": "Developer Productivity",
+      "keywords": [
+        "Developer Productivity"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "keywords": [
+        "Kubernetes",
+        "containers",
+        "platform"
+      ]
+    },
+    {
+      "name": "Systems",
+      "keywords": [
+        "design",
+        "interactions"
+      ]
+    }
+  ],
+  "references": [ ]
+}
